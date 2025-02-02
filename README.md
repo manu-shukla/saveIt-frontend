@@ -28,6 +28,13 @@ To run the SaveIt frontend locally, follow these steps:
 
 4. Open your browser and navigate to `http://localhost:5173` to see the application in action.
 
+## Features
+
+- **File Upload**: Users can upload files to the server using the upload button.
+- **File Download**: Users can download files by clicking the download button next to each file.
+- **File Delete**: Users can delete files by clicking the delete button next to each file.
+- **Sorting**: Users can sort files based on multiple criteria such as file name, file type, file size, and upload date.
+
 ## Tech Used
 
 - **React**: A JavaScript library for building user interfaces.
