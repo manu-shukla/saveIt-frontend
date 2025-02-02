@@ -6,6 +6,12 @@ This is the frontend repository for the SaveIt application. SaveIt is a web appl
 
 The SaveIt frontend is built using modern web technologies to provide a seamless and responsive user experience. It interacts with the SaveIt backend to perform various operations such as user authentication, data retrieval, and data management.
 
+## Screenshots
+![SaveIt Screenshot - 1](./public/screenshots/1.png)
+
+![SaveIt Screenshot - 2](./public/screenshots/2.png)
+
+
 ## How to Run
 
 To run the SaveIt frontend locally, follow these steps:
